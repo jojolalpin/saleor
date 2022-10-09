@@ -730,7 +730,7 @@ measurement = ">=1.6,<4.0"
 
 [[package]]
 name = "django-mptt"
-version = "0.13.4"
+version = "0.14.0"
 description = "Utilities for implementing Modified Preorder Tree Traversal with your Django Models and working with trees of Model instances."
 category = "main"
 optional = false
@@ -3451,8 +3451,8 @@ django-measurement = [
     {file = "django_measurement-3.2.4-py2.py3-none-any.whl", hash = "sha256:b2d40b8b56b4e8277130a2a8cbc1f01f597589a636e0ea7dfbc4e4c05d458cef"},
 ]
 django-mptt = [
-    {file = "django-mptt-0.13.4.tar.gz", hash = "sha256:80c9fb34df7796a4e5af0cb6b8ade3697555b1aa438bd07a01f32b3ab5202b63"},
-    {file = "django_mptt-0.13.4-py3-none-any.whl", hash = "sha256:75745b621ae31d97957ed924155a750dfa8cacd9543799ada2d713fd6bc3f5c7"},
+    {file = "django-mptt-0.14.0.tar.gz", hash = "sha256:2c92a2b1614c53086278795ccf50580cf1f9b8564f3ff03055dd62bab5987711"},
+    {file = "django_mptt-0.14.0-py3-none-any.whl", hash = "sha256:d9a87433ab0e4f35247c6f6d5a93ace6990860a4ba8796f815d185f773b9acfc"},
 ]
 django-phonenumber-field = [
     {file = "django-phonenumber-field-6.4.0.tar.gz", hash = "sha256:72a3e7a3e7493bf2a12c07a3bc77ce89813acc16592bf04d0eee3b5a452097ed"},
